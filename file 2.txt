@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 file 2 - muoi
+=======
+file 2 -- thao
+>>>>>>> e683d75b72f8b0f00bc03726fe97d210b80b93df
