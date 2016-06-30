@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-file 2---thao.
-=======
-file 2--- muoi.
->>>>>>> 79745e09d5c31d3f00f8014c1bfbc7b43d797d5c
+file 2 -- thao
