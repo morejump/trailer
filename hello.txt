@@ -1,1 +1,5 @@
+<<<<<<< .merge_file_a14000
 muoi here
+=======
+thao here
+>>>>>>> .merge_file_a05024
